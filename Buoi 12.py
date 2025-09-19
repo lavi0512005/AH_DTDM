@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-35 Nguyễn Hoàng Thanh Thanh
 BUỔI 12. Regular Expression và Web Crawling & Scraping
 """
 
@@ -124,3 +123,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
